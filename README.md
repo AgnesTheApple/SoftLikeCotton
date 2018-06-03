@@ -8,5 +8,5 @@ COMPETENCES UTILISEES :
 
 PROBLEMES RENCONTRES:
 
-- Footer fixe et responsive : resolu avec margin top
+- Footer fixe et responsive : resolu avec padding bottom to body
 
